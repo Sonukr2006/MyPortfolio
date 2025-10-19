@@ -1,6 +1,6 @@
 import React from "react";
 import image from "../../public/sonuPic.jpeg";
-import image_ from "../../public/side.webp";
+import image_ from "../../public/side.jpeg";
 import { Link } from "react-router-dom";
 
 const Hero = () => (
