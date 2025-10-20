@@ -2,7 +2,7 @@ import React from 'react'
 import ProjectCard from './ProjectCard'
 import Hero from './Hero'
 import Achievements from './Achievements'
-const inforsysLink = 'https://drive.google.com/file/d/103JLhV_-n9C2arEiCm6ITIo8ki4fxgEs/view?usp=drive_link'
+
 
 const Home = () => (
   <div>
@@ -30,11 +30,14 @@ const Home = () => (
     </div>
 
     <Achievements items={[
-      { title: 'Hackathon ', org: 'HackForGood', year: '2024', link: '#' },
-      { title: 'IT Essentials Certificate', org: 'Cisco', year: '2024', link: '/assets/SonuKumar-IT%20Essentials-certificate.pdf' },
-      { title: 'Intern - Website Maker', org: 'Intern Certify', year: '2024', link: '/assets/Intern%20Certify%20Certification%20_20241130_155155_0000.pdf' },
+      { title: 'SMART BIHAR HACKATHON ', org: 'GOVT. OF BIHAR + IITPATNA', year: '2024', link: 'https://drive.google.com/file/d/1wP4dI3MndpqkBWcG3fgE8GjPZ_fOpwgD/view?usp=sharing' },
+      { title: 'BUG HUNT', org: 'CGC UNIVERSITY, MOHALI', year: '2025', link: 'https://drive.google.com/file/d/1Rl0FOdY-_nTo7XNAp-_LoSV3GEteXiU2/view?usp=sharing' },
+      { title: 'SMART INDIA HACKATHON', org: 'GOVT. OF INDIA', year: '2025', link: 'https://drive.google.com/file/d/1Xrt1poncIaSrEgv5GESwPm8DNj4v4aHN/view?usp=sharing' },
+      { title: 'IT Essentials Certificate', org: 'Cisco', year: '2024', link: 'https://drive.google.com/file/d/1CcXkxKrLolF6BkaI2fwE8lQvDRi-4l1T/view?usp=sharing' },
+      { title: 'Intern - Website Maker', org: 'Intern Certify', year: '2024', link: 'https://drive.google.com/file/d/19bfJaSsk-7GAozB0O9WxNlVK8Px9Q7RN/view?usp=sharing' },
       { title: 'Foundation Course in AI Applications', org: 'NIELIT', year: '2024', link: '/assets/MarkSheet_1740245.pdf' },
-      { title: 'Programming Fundamentals using Python', org: 'INFOSYS', year: '2025', link: {inforsysLink} }
+      { title: 'Programming Fundamentals using Python', org: 'INFOSYS', year: '2025', link: 'https://drive.google.com/file/d/103JLhV_-n9C2arEiCm6ITIo8ki4fxgEs/view?usp=drive_link' },
+      { title: 'Basics of Flutter', org: 'THINKNEXT', year: '2025', link: 'https://drive.google.com/file/d/1BKcws4iLusGi8XDpxnzF9aX1pwmMuVFn/view?usp=sharing' },
     ]} />
   </div>
 )
