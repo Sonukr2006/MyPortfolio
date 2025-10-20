@@ -2,6 +2,7 @@ import React from 'react'
 import ProjectCard from './ProjectCard'
 import Hero from './Hero'
 import Achievements from './Achievements'
+const inforsysLink = 'https://drive.google.com/file/d/103JLhV_-n9C2arEiCm6ITIo8ki4fxgEs/view?usp=sharing'
 
 const Home = () => (
   <div>
@@ -32,7 +33,8 @@ const Home = () => (
       { title: 'Hackathon ', org: 'HackForGood', year: '2024', link: '#' },
       { title: 'IT Essentials Certificate', org: 'Cisco', year: '2024', link: '/assets/SonuKumar-IT%20Essentials-certificate.pdf' },
       { title: 'Intern - Website Maker', org: 'Intern Certify', year: '2024', link: '/assets/Intern%20Certify%20Certification%20_20241130_155155_0000.pdf' },
-      { title: 'Foundation Course in AI Applications', org: 'NIELIT', year: '2024', link: '/assets/MarkSheet_1740245.pdf' }
+      { title: 'Foundation Course in AI Applications', org: 'NIELIT', year: '2024', link: '/assets/MarkSheet_1740245.pdf' },
+      { title: 'Programming Fundamentals using Python', org: 'INFOSYS', year: '2025', link: {inforsysLink} }
     ]} />
   </div>
 )
