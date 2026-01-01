@@ -18,6 +18,12 @@ const Projects = () => (
         tech="React"
         image="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=800&q=60"
       />
+      <ProjectCard
+        title="Calculator"
+        description="Small utility project"
+        tech="React"
+        image="https://sharp.net.au/products/el760rblaa-8-digit-pocket-calculator-cream"
+      />
     </div>
   </div>
 );
