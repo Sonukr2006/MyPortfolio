@@ -29,7 +29,7 @@ const Projects = () => (
         title="Markdown Editor"
         description="Small utility project"
         tech="React"
-        image="../../public/markdown.png"
+        image="../../public/Screenshot from 2026-01-28 11-00-42.png"
         link="https://mark-down-editor-jade.vercel.app/"
       />
     </div>
