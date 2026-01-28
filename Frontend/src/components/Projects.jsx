@@ -23,6 +23,7 @@ const Projects = () => (
         description="Small utility project"
         tech="React"
         image="https://sharp.net.au/products/el760rblaa-8-digit-pocket-calculator-cream"
+        link="https://calculatorsiteproject.netlify.app/"
       />
     </div>
   </div>
