@@ -25,6 +25,13 @@ const Projects = () => (
         image="https://sharp.net.au/products/el760rblaa-8-digit-pocket-calculator-cream"
         link="https://calculatorsiteproject.netlify.app/"
       />
+      <ProjectCard
+        title="Markdown Editor"
+        description="Small utility project"
+        tech="React"
+        image="../../public/markdown.png"
+        link="https://mark-down-editor-jade.vercel.app/"
+      />
     </div>
   </div>
 );
