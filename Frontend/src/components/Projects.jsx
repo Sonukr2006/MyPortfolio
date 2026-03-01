@@ -28,7 +28,7 @@ const Projects = () => (
         title="FocusTube"
         description="Focused webapp for students."
         tech="React, Node, Express"
-        image=""
+        image="https://www.gizchina.com/apple/how-to-use-focus-mode-to-make-your-iphone-status-bar-fancier"
         link="https://focus-tube-ecru.vercel.app/"
       />
     </div>
