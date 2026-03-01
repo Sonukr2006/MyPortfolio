@@ -15,7 +15,7 @@ const Home = () => (
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
         <ProjectCard title="MealMend" description="MealMend: Collects waste food, donates, recycles into compost, supports communities." tech="Html, CSS, JS" image="https://images.unsplash.com/photo-1518779578993-ec3579fee39f?auto=format&fit=crop&w=800&q=60" link="https://github.com/Sonukr2006/MealMend-Backend" />
         <ProjectCard title="AI Chatbot Demo" description="Frontend chat UI with language support (EN/HI)" tech="React, WebSocket" image="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=60" />
-        <ProjectCard title="Auto-genr-Pass" description="Small utility project" tech="React" image="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=800&q=60" />
+        <ProjectCard title="FocusTube" description="A focused webapp for Student" tech="React, Node, Express" image="https://r.testifier.nl/Acbs8526SDKI/resizing_type:fit/width:1080/height:720/plain/https://s3-newsifier.ams3.digitaloceanspaces.com/gizchina.com/images/2025-06/imagem-2021-12-19-131842.png@webp" />
       </div>
       
       <section className="mt-10">
