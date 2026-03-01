@@ -32,6 +32,13 @@ const Projects = () => (
         image="../../public/Screenshot from 2026-01-28 11-00-42.png"
         link="https://mark-down-editor-jade.vercel.app/"
       />
+      <ProjectCard
+        title="FocusTube"
+        description="A focused webapp for students."
+        tech="React, Node, Express"
+        image="https://r.testifier.nl/Acbs8526SDKI/resizing_type:fit/width:1080/height:720/plain/https://s3-newsifier.ams3.digitaloceanspaces.com/gizchina.com/images/2025-06/imagem-2021-12-19-131842.png@webp"
+        link="https://focus-tube-ecru.vercel.app/"
+      />
     </div>
   </div>
 );
