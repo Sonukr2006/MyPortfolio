@@ -24,6 +24,13 @@ const Projects = () => (
         tech="React"
         image="https://sharp.net.au/products/el760rblaa-8-digit-pocket-calculator-cream"
       />
+      <ProjectCard
+        title="FocusTube"
+        description="Focused webapp for students."
+        tech="React, Node, Express"
+        image=""
+        link="https://focus-tube-ecru.vercel.app/"
+      />
     </div>
   </div>
 );
